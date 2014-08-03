@@ -104,18 +104,17 @@ header .intro-text .name {
 }
 
 header .intro-text .skills {
-
-    font-weight: 300;
+    font-weight: 100;
 }
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 510px;
+        padding-top: 180px;
         padding-bottom: 100px;
     }
 
     header .intro-text .name {
-        /*font-size: 1.75em;*/
+        font-size: 1.75em;
     }
 
     header .intro-text .skills {
